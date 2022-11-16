@@ -1,7 +1,5 @@
-<img scr="https://github.com/Tykunal/https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5572.jpg?w=900">
 <h1 align="center">Hi 👋, I'm Kunal Tyagi</h1>
 <h3 align="center">Frontend dev| Tech enthusiast| constant learner</h3>
-<img align="right" alt="coding" width ="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 <p align="left"> <a href="https://twitter.com/tykunal07" target="blank"><img src="https://img.shields.io/twitter/follow/tykunal07?logo=twitter&style=for-the-badge" alt="tykunal07" /></a> </p>
 
 - 📫 How to reach me **kunaltyagi00000@gmail.com**
