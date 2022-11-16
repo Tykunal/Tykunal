@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Kunal Tyagi</h1>
 <h3 align="center">Frontend dev| Tech enthusiast| constant learner</h3>
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761182c5bf908f6c1c2ed1acf8ce7dc4aac18a4a65d6&rid=giphy.gif&ct=g" align="right">
 <p align="left"> <a href="https://twitter.com/tykunal07" target="blank"><img src="https://img.shields.io/twitter/follow/tykunal07?logo=twitter&style=for-the-badge" alt="tykunal07" /></a> </p>
 
 - 📫 How to reach me **kunaltyagi00000@gmail.com**
