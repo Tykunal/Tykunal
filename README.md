@@ -1,5 +1,5 @@
 <!-- ![ezgif-1-54c30d8c69](https://user-images.githubusercontent.com/93856353/202189860-6edae34b-dd8d-4f9e-bf0c-17fbb7187db1.gif) -->
-<img src="https://4kwallpapers.com/images/walls/thumbs_2t/5947.png" align="right" width="1000">
+<img src="https://user-images.githubusercontent.com/93856353/217592567-cf1014ba-4f09-42fb-9a88-821780fffe4e.png" align="right" width="1000">
 <h1 align="center">𝓱𝓮𝔂! <br> 👩🏽‍💻𝓘'𝓶 𝓴𝓾𝓷𝓪𝓵👩🏽‍💻</h1>
 <h3 align="center">Frontend dev | Aspiring blockchain developer | DS & A</h3>
 <!-- <p> Thanks for reaching me! </p> -->
