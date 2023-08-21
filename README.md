@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/tykunal07" target="blank"><img src="https://img.shields.io/twitter/follow/tykunal07?logo=twitter&style=for-the-badge" alt="tykunal07" /></a> </p>
 
 - 📫 How to reach me **kunaltyagi00000@gmail.com**
-- 📫 How to reach me **(https://tykunal.github.io/kunal.cv/)**
+- 📫 How to reach me **(https://tykunal.github.io/kunalcv/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
