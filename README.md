@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/93856353/217592567-cf1014ba-4f09-42fb-9a88-821780fffe4e.png" align="right" width="1000">
 
-<h1 align="center">Hey there! 🚀<br>👨‍💻<i>I'm Kunal Tyagi</i>👨‍💻</h1>
+<h1 align="center">𝓱𝓮𝔂! 🚀<br>👩🏽‍💻𝓘'𝓶 𝓴𝓾𝓷𝓪𝓵👩🏽‍💻</h1>
 <h3 align="center">Code Alchemist | Problem Solver | Full Stack Software Developer</h3>
 
 ---
